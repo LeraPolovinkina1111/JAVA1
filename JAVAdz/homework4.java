@@ -3,7 +3,7 @@ public class homework4 {
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class task1 {
+public class homework4 {
    
 
     public static void main(String[] args) {
